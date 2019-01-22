@@ -57,8 +57,8 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/towerbridge.jpg') no-repeat top center ;
-  background-size: cover;
+  background: url('images/st-james-park-enhanced-medium-res.jpg') no-repeat center;
+  background-size: contain;
   overflow: hidden;
   padding-top: 60px;
 }
